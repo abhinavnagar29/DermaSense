@@ -1,4 +1,4 @@
-# Hybrid Skin Disease Classifier
+# DermaSense: Hybrid Skin Disease Classifier
 
 A 22-class skin condition classifier combining ResNet50 and DenseNet121
 feature extractors, with Grad-CAM interpretability and a full evaluation,
