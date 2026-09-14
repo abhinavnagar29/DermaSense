@@ -4,7 +4,7 @@ A 22-class skin condition classifier combining ResNet50 and DenseNet121
 feature extractors, with Grad-CAM interpretability and a full evaluation,
 error-analysis, and calibration pipeline — deployed as a Streamlit app.
 
-**Live demo:** https://skin-disease-classifier-fq9tu2ysuqwme9l9gds9xc.streamlit.app/
+**Live demo:** [https://derma-sense.streamlit.app/]
 
 > **Medical disclaimer:** This is a research/educational ML project. It is
 > not a certified medical device, has not been clinically validated, and
