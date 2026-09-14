@@ -73,9 +73,9 @@ def run_inference(model, classes, transform, device, gradcam, image: Image.Image
 # UI
 # ------------------------------------------------------------------
 
-st.set_page_config(page_title="Hybrid Skin Disease Classifier", layout="wide")
+st.set_page_config(page_title="DermaSense: Hybrid Skin Disease Classifier", layout="wide")
 
-st.title("Hybrid Skin Disease Classifier")
+st.title("DermaSense: Hybrid Skin Disease Classifier")
 st.caption(
     "An ML research/educational demonstration of a hybrid ResNet50 + DenseNet121 "
     "classifier with Grad-CAM interpretability. Not a medical device."
